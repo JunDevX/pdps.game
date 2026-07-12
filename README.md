@@ -6,11 +6,10 @@
 </p>
 
 # How install
-1. Зайдите в релиз и установите лаунчер (launcher.......exe)
+1. Зайдите в релиз и установите лаунчер 
 2. Запустите и подождите окончания проверки обновления лаунчера / игры
 3. Можете спокойно играть!
 # Screenshots
 <p align="center">
-  <img width="850" height="520" alt="image" src="https://github.com/user-attachments/assets/048391bc-e020-436a-b144-956ba450f172" />
+  <img width="750" height="420" alt="image" src="https://github.com/user-attachments/assets/05184cfd-b054-4529-a839-56361797ba6f" />
 </p>
-Настройка перед игрой
